@@ -1,0 +1,10 @@
+C:\Users\rafae\source\repos\TempClean\TempClean\bin\Debug\TempClean.exe.config
+C:\Users\rafae\source\repos\TempClean\TempClean\bin\Debug\TempClean.exe
+C:\Users\rafae\source\repos\TempClean\TempClean\bin\Debug\TempClean.pdb
+C:\Users\rafae\source\repos\TempClean\TempClean\obj\Debug\TempClean.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\TempClean\TempClean\obj\Debug\TempClean.Form1.resources
+C:\Users\rafae\source\repos\TempClean\TempClean\obj\Debug\TempClean.Properties.Resources.resources
+C:\Users\rafae\source\repos\TempClean\TempClean\obj\Debug\TempClean.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\TempClean\TempClean\obj\Debug\TempClean.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\TempClean\TempClean\obj\Debug\TempClean.exe
+C:\Users\rafae\source\repos\TempClean\TempClean\obj\Debug\TempClean.pdb
